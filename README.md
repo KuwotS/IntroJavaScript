@@ -9,7 +9,9 @@ JavaScript for name, height and country
  
   <body>
       <script>
-        console.log('My name is Kuwot Sodangi, I am 1.65 and I am from Nigeria');
+          console.log('Kuwot Sodangi');
+          console.log('My height is 1.65');
+          console.log('I am from Nigeria');
       </script>  
   </body>
   
